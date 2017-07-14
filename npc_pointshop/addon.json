@@ -1,0 +1,11 @@
+{
+	"title"		:	"Pointshop NPC",
+	"type"		:	"NPC",
+	"tags"		:	[ "Roleplay", "Fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
